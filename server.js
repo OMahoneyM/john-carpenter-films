@@ -7,6 +7,7 @@ app.use(cors());
 
 const filmography = {
     'dark star':{
+        'title': 'Dark Star',
         'year': 1974,
         'mpaaRating': 'G',
         'runtime': '83 mins',
@@ -18,6 +19,7 @@ const filmography = {
         'boxOffice': null
     },
     'assault on precinct 13':{
+        'title':'Assault on Precinct 13',
         'year': 1976,
         'mpaaRating': 'R',
         'runtime': '91 mins',
@@ -29,6 +31,7 @@ const filmography = {
         'boxOffice': null
     },
     'halloween':{
+        'title':'Halloween',
         'year': 1978,
         'mpaaRating': 'R',
         'runtime': '91 mins',
@@ -40,6 +43,7 @@ const filmography = {
         'boxOffice': '$47 million'
     },
     'the fog':{
+        'title':'The Fog',
         'year': 1980,
         'mpaaRating': 'R',
         'runtime': '89 mins',
@@ -51,6 +55,7 @@ const filmography = {
         'boxOffice': '$21.4 million'
     },
     'escape from new york':{
+        'title':'Escape from New York',
         'year': 1981,
         'mpaaRating': 'R',
         'runtime': '99 mins',
@@ -62,6 +67,7 @@ const filmography = {
         'boxOffice': '$25.2 million'
     },
     'the thing':{
+        'title': 'The Thing',
         'year': 1982,
         'mpaaRating': 'R',
         'runtime': '109 mins',
@@ -73,6 +79,7 @@ const filmography = {
         'boxOffice': '$20.6 million'
     },
     'christine':{
+        'title':'Christine',
         'year': 1983,
         'mpaaRating': 'R',
         'runtime': '110 mins',
@@ -84,6 +91,7 @@ const filmography = {
         'boxOffice': '$21 million'
     },
     'starman':{
+        'title':'Starman',
         'year': 1984,
         'mpaaRating': 'PG',
         'runtime': '115 mins',
@@ -95,6 +103,7 @@ const filmography = {
         'boxOffice': '$28.7 million'
     },
     'big trouble in little china':{
+        'title':'Big Trouble in Little China',
         'year': 1986,
         'mpaaRating': 'PG-13',
         'runtime': '99 mins',
@@ -106,6 +115,7 @@ const filmography = {
         'boxOffice': '$11 million'
     },
     'prince of darkness':{
+        'title':'Prince of Darkness',
         'year': 1987,
         'mpaaRating': 'R',
         'runtime': '102 mins',
@@ -117,6 +127,7 @@ const filmography = {
         'boxOffice': '$14 million'
     },
     'they live':{
+        'title':'They Live',
         'year': 1988,
         'mpaaRating': 'R',
         'runtime': '104 mins',
@@ -128,6 +139,7 @@ const filmography = {
         'boxOffice': '$13.4 million'
     },
     'memoirs of an invisible man':{
+        'title':'Memoirs of an Invisible Man',
         'year': 1992,
         'mpaaRating': 'PG-13',
         'runtime': '99 mins',
@@ -139,6 +151,7 @@ const filmography = {
         'boxOffice': '$14 million'
     },
     'in the mouth of madness':{
+        'title':'In the Mouth of Madness',
         'year': 1994,
         'mpaaRating': 'R',
         'runtime': '95 mins',
@@ -150,6 +163,7 @@ const filmography = {
         'boxOffice': '$8.9 million'
     },
     'village of the damned':{
+        'title':'Village of the Damned',
         'year': 1995,
         'mpaaRating': 'R',
         'runtime': '98 mins',
@@ -161,6 +175,7 @@ const filmography = {
         'boxOffice': '$9.4 million'
     },
     'escape from l.a.':{
+        'title':'Escape from L.A.',
         'year': 1996,
         'mpaaRating': 'R',
         'runtime': '101 mins',
@@ -172,6 +187,7 @@ const filmography = {
         'boxOffice': '$25.4 million'
     },
     'vampires':{
+        'title':'Vampires',
         'year': 1998,
         'mpaaRating': 'R',
         'runtime': '108 mins',
@@ -183,6 +199,7 @@ const filmography = {
         'boxOffice': '$20.3 million'
     },
     'ghosts of mars':{
+        'title':'Ghosts of Mars',
         'year': 2001,
         'mpaaRating': 'R',
         'runtime': '98 mins',
@@ -194,6 +211,7 @@ const filmography = {
         'boxOffice': '$14 million'
     },
     'the ward':{
+        'title':'The Ward',
         'year': 2010,
         'mpaaRating': 'R',
         'runtime': '89 mins',
